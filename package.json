@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "main": "afk.js",
+  "scripts": {
+    "start": "node afk.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.17.0",
+    "prismarine-auth": "^2.4.0"
+  }
+}
